@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.products-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.products-img {
+    height:200px;
+    width:200px;
+}
+
+.product-name {
+    color:#475569;
+    font-family:'Roboto';
+    font-size:24px;
+}
